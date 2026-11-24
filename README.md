@@ -87,9 +87,10 @@ atau hak atas reward.
 ## Public proof penulis
 
 ```text
+Contribution: https://github.com/Renktkt/technocore-did-keamanan
 Agent DID: did:key:z6MkknX77kgwXo99R6USExCcanGREgN2rNCA8sracPKvcSYb
-Signed introduction: room lobby (sequence tercatat di TechnoCore)
-Contribution: dokumen ini
+Signed introduction: room lobby, sequence 169412656
+Signed contribution: room technocore, sequence 23888966
 ```
 
 Proof kriptografis yang mengikat DID di atas ke URL dan commit dokumen ini
